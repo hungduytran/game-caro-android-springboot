@@ -1,0 +1,14 @@
+# Backend
+GameCaro/target/
+GameCaro/*.log
+GameCaro/*.class
+
+# Android
+GameCaroAndroid/.gradle/
+GameCaroAndroid/local.properties
+GameCaroAndroid/.idea/
+GameCaroAndroid/build/
+
+# OS
+.DS_Store
+Thumbs.db

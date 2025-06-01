@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55250071369",
+    "project_id": "carogameandroid",
+    "storage_bucket": "carogameandroid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55250071369:android:c0b35800e2bda7820ff498",
+        "android_client_info": {
+          "package_name": "com.duyhung.gamecaro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUn6scchUK0o3BY40ipAgmaib4GrBKba0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
